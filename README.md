@@ -10,7 +10,7 @@ Feel free to contribute and share your own prompts!
 
 > Ghibli style
 
-![](examples/chatgpt-ghibli-style.jpg)
+<img src="examples/chatgpt-ghibli-style.jpg" height="100"/>
 
 > Turn this image into a Studio Ghibli-style animated portrait. Use the soft color palette, whimsical background, and facial features inspired by Ghibli characters. Style it like a scene from 'My Neighbor Totoro' or 'Spirited Away'.
 
@@ -18,7 +18,7 @@ Feel free to contribute and share your own prompts!
 
 > Render an airbus A380 from an airline named 'AI'. The airline brand colors are: #05192D and #03EF62
 
-![](examples/chatgpt-airbus.jpg)
+<img src="examples/chatgpt-airbus.jpg" height="100"/>
 
 ## Photo Editing
 
@@ -45,6 +45,6 @@ Feel free to contribute and share your own prompts!
 
 > Create an infographic explaining Mars
 
-![](examples/chatgpt-mars-infographic.jpg)
+<img src="examples/chatgpt-mars-infographic.jpg" height="100"/>
 
 > Create a diagram explaining merge sort
